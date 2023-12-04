@@ -1,5 +1,5 @@
 body {
-    background-color:3070B3;
+    background-color:C2D7EF;
     font-family: 'Baloo Bhai 2', sans-serif;
     }
 .zoom,.nav-list li a{
@@ -7,6 +7,7 @@ body {
 }
 .zoom:hover,.nav-list li a:hover{
     transform: scale(1.05);
+    color: white;
 }
 
 .fade {
@@ -27,3 +28,7 @@ body {
   .fade {
     animation: fadeIn 1s ease-in-out forwards; /* You can adjust the duration and timing function */
   }
+
+.cw{   
+  color:white;  
+} 
