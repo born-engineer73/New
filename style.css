@@ -4,12 +4,16 @@ body {
     }
 .zoom,.nav-list li a{
     transition: transform 0.3s ease-in-out;
+    /* transition: font-weight 0.2s ease-in-out; */
 }
 .zoom:hover,.nav-list li a:hover{
     transform: scale(1.05);
-    /* color: white; */
+    
 }
-
+.nav-list li a:hover{
+  color: white;
+  font-weight: bold;
+}
 .fade {
     opacity: 0;
   }
