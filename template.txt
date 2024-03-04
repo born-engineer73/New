@@ -1,0 +1,77 @@
+// Card for Adding ICH page (image on right Side)------------------------->
+
+<div class="card my-4 zoom" style="border-radius: 3cap;">
+                <div class="row no-gutters m-3">
+
+                    <div class="col-md-8 order-md-1 order-1 align-items-center d-flex">
+                        <div class="card-body my-auto ">
+                            <h3 class="card-title mb-5" style="text-align: left; font-weight: bolder;">Preserving and Teaching Carbajalino
+                                Embroidery (VR)</h3>
+                            <p class="card-text col-md-10 mb-5" style=" text-align:justify;">Modernization disrupts the
+                                transmission of traditional crafts, risking the extinction of skills like Carbajales de
+                                Alba's unique embroidery, prompting urgent digital preservation efforts.</p>
+                                <p class="card-text " style="text-align: left;"><small class="text-muted">Creators: Md Razaul Haque Usmani, Celia Tundidor Centeno</small></p>
+                                <p class="card-text " style="text-align: left;"><small class="text-muted">Keywords:
+                                    Interactive story-telling, Embroidery, VR</small></p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 order-md-2 order-2 my-auto">
+                        <img src="./img/VR1.png" class="card-img my-3" alt="PCI">
+                        <!-- <a href="./downloads/ProjectAlba.zip" class="btn btn-outline-secondary my-3" download>Try
+                            Now</a> -->
+
+                    </div>
+                </div>
+            </div>
+
+
+// Card for Adding ICH page (image on Left Side) ------------------------->
+
+<div class="card my-4 zoom" style="border-radius: 3cap;">
+                <div class="row no-gutters m-3">
+
+                    <div class="col-md-4 order-md-1 order-2 my-auto">
+                        <img src="./img/VR2.png" class="card-img my-3" alt="PCI">
+                        <a href="https://vr-experiment.960.eu/level1.html" target="_blank"
+                            class="btn btn-outline-secondary my-3">Try
+                            Now</a>
+
+                    </div>
+                    <div class="col-md-8 order-md-2 order-1 align-items-center d-flex">
+                        <div class="card-body my-auto ">
+                            <h3 class="card-title mb-5" style="text-align: left; font-weight: bolder;">Scottish Curling through VR and
+                                Generative AI</h3>
+                            <p class="card-text col-md-10 mb-5" style=" text-align:justify;">The Grand Match, a historic
+                                Scottish curling festival, ceased in 1979 due to climate effects. This project revives
+                                it in virtual reality, blending tradition with AI and VR to preserve its cultural
+                                essence and community spirit amidst environmental changes, ensuring its legacy endures.
+                            </p>
+                            <p class="card-text " style="text-align: left;"><small class="text-muted">Creator: Joscha von Andrian</small></p>
+                            <p class="card-text" style="text-align: left;"><small class="text-muted">Keywords: Web VR,
+                                    LLM, Scottish Curling</small></p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+// Card for Adding in Experiment page (image on Top) ------------------------->
+
+  <div class="container justify-content-center align-items-center py-5 text-center">
+    <div class="col-md-8 col-sm-6 zoom m-3 justify-content-center p-auto" style="display: contents; align-items: center;">
+      <div class="card" style="border-radius: 8px; ">
+        <h4 class="card-title text-center m-3">10 euros for short game study</h4>
+        <div class="col-md-4 m-auto">
+          <img src="./img/E1.jpg" class="card-img my-3" alt="PCI">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row justify-content-between m-auto" style=" overflow-y: auto;">
+          <button class="btn btn-primary mb-2 mb-md-0 me-md-2" onclick="window.open('./img/E1.jpg', '_blank')">View
+            Poster</button>
+
+          <a href="./img/E1.jpg" download target="_blank" class="btn btn-success ">Download Poster</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
